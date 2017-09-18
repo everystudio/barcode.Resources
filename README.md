@@ -1,0 +1,2 @@
+# barcode.Resources
+barcode resources
