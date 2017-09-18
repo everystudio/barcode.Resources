@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: 2dc49b9e94e89124ea15db88f36e49bc
+timeCreated: 1502547953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bar_userex.png
+    21300002: bar_userexframe.png
+    21300004: bord_cost.png
+    21300006: bord_sell.png
+    21300008: bord_sell2.png
+    21300010: bt_center.png
+    21300012: btn_back_highlighted.png
+    21300014: btn_check.png
+    21300016: btn_clean.png
+    21300018: btn_footer_book.png
+    21300020: btn_footer_close.png
+    21300022: btn_footer_item.png
+    21300024: btn_footer_work.png
+    21300026: btn_footer_yameru.png
+    21300028: btn_gamestart.png
+    21300030: btn_gobackoffice.png
+    21300032: btn_infopopup_meal.png
+    21300034: btn_katazuke.png
+    21300036: btn_kusuri.png
+    21300038: btn_main_getmoney.png
+    21300040: btn_max.png
+    21300042: btn_meal.png
+    21300044: btn_next_highlighted.png
+    21300046: btn_no.png
+    21300048: btn_powerup.png
+    21300050: btn_testread.png
+    21300052: btn_testsave.png
+    21300054: btn_yes.png
+    21300056: chara_zukan.png
+    21300058: coin.png
+    21300060: coin1000.png
+    21300062: coin5500.png
+    21300064: coin125000.png
+    21300066: coin500000.png
+    21300068: coin550000.png
+    21300070: empower.png
+    21300072: empower2.png
+    21300074: empower_done.png
+    21300076: empower_office.png
+    21300078: food1.png
+    21300080: food2.png
+    21300082: food3.png
+    21300084: food4.png
+    21300086: food5.png
+    21300088: food6.png
+    21300090: food7.png
+    21300092: food8.png
+    21300094: frame_exp.png
+    21300096: frame_gold.png
+    21300098: gate.png
+    21300100: haichi_txt.png
+    21300102: header_book.png
+    21300104: header_item.png
+    21300106: header_shisetsu1.png
+    21300108: header_shisetsu2.png
+    21300110: header_work.png
+    21300112: icon_-1.png
+    21300114: icon_1.png
+    21300116: icon_2.png
+    21300118: icon_3.png
+    21300120: icon_5.png
+    21300122: icon_6.png
+    21300124: icon_gold.png
+    21300126: icon_lv.png
+    21300128: icon_manpuku.png
+    21300130: icon_manpuku2.png
+    21300132: icon_manpuku3.png
+    21300134: icon_nazo.png
+    21300136: icon_rea.png
+    21300138: icon_tickets.png
+    21300140: icon_unchi.png
+    21300142: illness.png
+    21300144: itempage_menu1_off.png
+    21300146: itempage_menu1_on.png
+    21300148: itempage_menu2_off.png
+    21300150: itempage_menu2_on.png
+    21300152: itempage_tab1_off.png
+    21300154: itempage_tab1_on.png
+    21300156: itempage_tab2_off.png
+    21300158: itempage_tab2_on.png
+    21300160: itempage_tab3_off.png
+    21300162: itempage_tab3_on.png
+    21300164: itempage_tab4_off.png
+    21300166: itempage_tab4_on.png
+    21300168: itempage_tab5_off.png
+    21300170: itempage_tab5_on.png
+    21300172: levelup.png
+    21300174: list_buy1.png
+    21300176: list_buy2.png
+    21300178: list_buy3.png
+    21300180: list_item_1.png
+    21300182: list_item_2.png
+    21300184: list_item_3.png
+    21300186: list_item_4.png
+    21300188: list_shisetsu1_1.png
+    21300190: list_shisetsu2_1.png
+    21300192: list_work_1.png
+    21300194: main_getmoney.png
+    21300196: main_header.png
+    21300198: main_workfukidashi.png
+    21300200: new_alert.png
+    21300202: no_cost.png
+    21300204: no_gold.png
+    21300206: no_ticket.png
+    21300208: nothing_icon.png
+    21300210: people1_00.png
+    21300212: people1_01.png
+    21300214: people2_00.png
+    21300216: people2_01.png
+    21300218: people3_00.png
+    21300220: people3_01.png
+    21300222: people4_00.png
+    21300224: people4_01.png
+    21300226: people5_00.png
+    21300228: people5_01.png
+    21300230: pinch.png
+    21300232: popup_cleanup.png
+    21300234: popup_manpuku.png
+    21300236: purchase_road.png
+    21300238: serihu_4.png
+    21300240: shisetsu1_frame1.png
+    21300242: shisetsu1_frame4.png
+    21300244: shisetsu1page_menu1_off.png
+    21300246: shisetsu1page_menu1_on.png
+    21300248: shisetsu1page_menu2_off.png
+    21300250: shisetsu1page_menu2_on.png
+    21300252: shisetsu1page_tab1_off.png
+    21300254: shisetsu1page_tab1_on.png
+    21300256: shisetsu1page_tab2_off.png
+    21300258: shisetsu1page_tab2_on.png
+    21300260: shisetsu1page_tab3_off.png
+    21300262: shisetsu1page_tab3_on.png
+    21300264: shisetsu1page_tab4_off.png
+    21300266: shisetsu1page_tab4_on.png
+    21300268: shisetsu1page_tab5_off.png
+    21300270: shisetsu1page_tab5_on.png
+    21300272: shisetsu2page_menu1_off.png
+    21300274: shisetsu2page_menu1_on.png
+    21300276: shisetsu2page_menu2_off.png
+    21300278: shisetsu2page_menu2_on.png
+    21300280: shisetsu2page_tab1_off.png
+    21300282: shisetsu2page_tab1_on.png
+    21300284: shisetsu2page_tab2_off.png
+    21300286: shisetsu2page_tab2_on.png
+    21300288: shisetsu2page_tab3_off.png
+    21300290: shisetsu2page_tab3_on.png
+    21300292: shisetsu2page_tab4_off.png
+    21300294: shisetsu2page_tab4_on.png
+    21300296: shisetsu2page_tab5_off.png
+    21300298: shisetsu2page_tab5_on.png
+    21300300: staff_icon1.png
+    21300302: staff_icon1_2.png
+    21300304: staff_icon2.png
+    21300306: staff_icon2_2.png
+    21300308: staff_icon3.png
+    21300310: staff_icon3_2.png
+    21300312: staff_icon4.png
+    21300314: staff_icon4_2.png
+    21300316: staff_icon5.png
+    21300318: staff_icon5_2.png
+    21300320: staff_icon6.png
+    21300322: staff_icon6_2.png
+    21300324: staff_icon7.png
+    21300326: staff_icon8.png
+    21300328: ticket010.png
+    21300330: ticket10.png
+    21300332: ticket055.png
+    21300334: ticket55.png
+    21300336: ticket125.png
+    21300338: ticket350.png
+    21300340: ticket800.png
+    21300342: time_left.png
+    21300344: tutorial7.png
+    21300346: tutorial19.png
+    21300348: work_clear.png
+    21300350: workpage_menu1_off.png
+    21300352: workpage_menu1_on.png
+    21300354: workpage_menu2_off.png
+    21300356: workpage_menu2_on.png
+    21300358: workpage_tab1_off.png
+    21300360: workpage_tab1_on.png
+    21300362: workpage_tab2_off.png
+    21300364: workpage_tab2_on.png
+    21300366: workpage_tab3_off.png
+    21300368: workpage_tab3_on.png
+    21300370: workpage_tab4_off.png
+    21300372: workpage_tab4_on.png
+    21300374: workpage_tab5_off.png
+    21300376: workpage_tab5_on.png
+    21300378: zooojisan.png
+    21300380: zoukyou.png
+    21300382: zoukyou_frame1.png
+    21300384: zoukyou_frame2.png
+    21300386: zoukyou_frame3.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bar_userex.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 991
+        width: 366
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bar_userexframe.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 979
+        width: 366
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_cost.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 797
+        width: 242
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_sell.png
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 611
+        width: 238
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bord_sell2.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 700
+        width: 242
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bt_center.png
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1207
+        width: 125
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_back_highlighted.png
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 418
+        width: 150
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_check.png
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 153
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_clean.png
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 492
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_book.png
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 37
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_close.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1737
+        width: 640
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_item.png
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 492
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_work.png
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 388
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_footer_yameru.png
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1787
+        width: 640
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_gamestart.png
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1139
+        width: 458
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_gobackoffice.png
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1159
+        width: 140
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_infopopup_meal.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1533
+        width: 166
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_katazuke.png
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1167
+        width: 130
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_kusuri.png
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1068
+        width: 214
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_main_getmoney.png
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 790
+        width: 260
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_max.png
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1949
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_meal.png
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 643
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_next_highlighted.png
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 418
+        width: 150
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_no.png
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1220
+        width: 204
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_powerup.png
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1055
+        width: 458
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_testread.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1499
+        width: 164
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_testsave.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1465
+        width: 164
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_yes.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1132
+        width: 204
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chara_zukan.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 290
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin.png
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1705
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin1000.png
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1011
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin5500.png
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1003
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin125000.png
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 196
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin500000.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1308
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coin550000.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1308
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 978
+        width: 471
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower2.png
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1227
+        width: 509
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower_done.png
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 900
+        width: 268
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: empower_office.png
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1227
+        width: 509
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food1.png
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 425
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food2.png
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 608
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food3.png
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 492
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food4.png
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 141
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food5.png
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 144
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food6.png
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 141
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food7.png
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 145
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: food8.png
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 548
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_exp.png
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 716
+        width: 228
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_gold.png
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 716
+        width: 228
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gate.png
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 596
+        width: 298
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: haichi_txt.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1311
+        width: 582
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_book.png
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1945
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_item.png
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1945
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_shisetsu1.png
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1841
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_shisetsu2.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1791
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: header_work.png
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1841
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_-1.png
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 375
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_1.png
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1949
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_2.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_3.png
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_5.png
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1949
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_6.png
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 139
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_gold.png
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1958
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_lv.png
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 640
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku.png
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 667
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku2.png
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 626
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_manpuku3.png
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 577
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_nazo.png
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1582
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_rea.png
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1676
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_tickets.png
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1745
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_unchi.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1595
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: illness.png
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 492
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu1_off.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 925
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 871
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu2_off.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 817
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_menu2_on.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 763
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab1_off.png
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1004
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 947
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab2_off.png
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 354
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab2_on.png
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 354
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab3_off.png
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 354
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab3_on.png
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 428
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab4_off.png
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 615
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab4_on.png
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 551
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab5_off.png
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 487
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: itempage_tab5_on.png
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 579
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: levelup.png
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 675
+        width: 227
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy1.png
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 679
+        width: 200
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy2.png
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 663
+        width: 200
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_buy3.png
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 679
+        width: 200
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_1.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1613
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_2.png
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1613
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_3.png
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1521
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_item_4.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1489
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_shisetsu1_1.png
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1489
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_shisetsu2_1.png
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1397
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: list_work_1.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1365
+        width: 620
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_getmoney.png
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 844
+        width: 263
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_header.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1895
+        width: 640
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: main_workfukidashi.png
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1737
+        width: 640
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: new_alert.png
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 16
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_cost.png
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1041
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_gold.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 956
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: no_ticket.png
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 10
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nothing_icon.png
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1007
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people1_00.png
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 535
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people1_01.png
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 542
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people2_00.png
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 392
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people2_01.png
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 391
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people3_00.png
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 863
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people3_01.png
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 747
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people4_00.png
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 26
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people4_01.png
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 648
+        width: 71
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people5_00.png
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 23
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: people5_01.png
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 23
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pinch.png
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 41
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: popup_cleanup.png
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1041
+        width: 498
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: popup_manpuku.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1034
+        width: 497
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: purchase_road.png
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 704
+        width: 256
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: serihu_4.png
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 352
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1_frame1.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 967
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1_frame4.png
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1223
+        width: 600
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu1_off.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 925
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 871
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu2_off.png
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 943
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_menu2_on.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 924
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab1_off.png
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 515
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 599
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab2_off.png
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 535
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab2_on.png
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 599
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab3_off.png
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 535
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab3_on.png
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 615
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab4_off.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 288
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab4_on.png
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 364
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab5_off.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 224
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu1page_tab5_on.png
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 428
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu1_off.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 870
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu1_on.png
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 889
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu2_off.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 816
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_menu2_on.png
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 835
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab1_off.png
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 160
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 288
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab2_off.png
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 535
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab2_on.png
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 599
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab3_off.png
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 535
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab3_on.png
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 615
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab4_off.png
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 288
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab4_on.png
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 364
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab5_off.png
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 224
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shisetsu2page_tab5_on.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 364
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon1.png
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 14
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon1_2.png
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon2.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon2_2.png
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 747
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon3.png
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon3_2.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon4.png
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 876
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon4_2.png
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon5.png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 22
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon5_2.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 22
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon6.png
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 983
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon6_2.png
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1101
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon7.png
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1949
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: staff_icon8.png
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1949
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket010.png
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 198
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket10.png
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 198
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket055.png
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 44
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket55.png
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 44
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket125.png
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 198
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket350.png
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 44
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ticket800.png
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 197
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: time_left.png
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1393
+        width: 604
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial7.png
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1843
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial19.png
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1645
+        width: 633
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: work_clear.png
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 772
+        width: 449
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu1_off.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 762
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu1_on.png
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 781
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu2_off.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 708
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_menu2_on.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 654
+        width: 306
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab1_off.png
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 96
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab1_on.png
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 32
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab2_off.png
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 364
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab2_on.png
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 300
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab3_off.png
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 160
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab3_on.png
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 236
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab4_off.png
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 96
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab4_on.png
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 32
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab5_off.png
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 224
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: workpage_tab5_on.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 364
+        width: 128
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zooojisan.png
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 395
+        width: 176
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou.png
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 997
+        width: 372
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame1.png
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1287
+        width: 600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame2.png
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1283
+        width: 600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zoukyou_frame3.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1219
+        width: 580
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
